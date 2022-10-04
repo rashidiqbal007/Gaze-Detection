@@ -1,12 +1,12 @@
 body {
   margin: 0;
-  background: rgb(71, 53, 128);
+  background: rgb(53, 128, 124);
   background: radial-gradient(
     circle,
-    rgba(71, 53, 128, 1) 0%,
-    rgba(26, 55, 83, 1) 100%
+    rgb(24, 35, 69) 0%,
+    rgb(53, 112, 167) 100%
   );
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 /* mobile-first styles */
@@ -14,8 +14,8 @@ h1 {
   width: 85%;
   margin: 0.5em auto;
   padding: 0;
-  color: rgb(255, 255, 255);
-  font-weight: 400;
+  color: rgb(17, 110, 138);
+  font-weight: 900;
   text-align: center;
 }
 
