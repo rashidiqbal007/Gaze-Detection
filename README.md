@@ -2,15 +2,7 @@
 
 Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences!
 
-## Demo
 
-Visit [https://gaze-keyboard.netlify.app/](https://gaze-keyboard.netlify.app/) _(Works well on mobile too!!)_ 😃
-
-![](gaze-demo.gif)
-
-_Inspired by the Android application ["Look to speak"](https://play.google.com/store/apps/details?id=com.androidexperiments.looktospeak)._
-
-Uses Tensorflow.js's [face landmark detection model](https://www.npmjs.com/package/@tensorflow-models/face-landmarks-detection).
 
 ## Detection
 
