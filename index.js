@@ -1,6 +1,6 @@
-import * as faceLandmarksDetection from "@tensorflow-models/face-landmarks-detection";
-import * as tf from "@tensorflow/tfjs-core";
-import "@tensorflow/tfjs-backend-webgl";
+import * as faceLandmarksDetection from "./node_modules/@tensorflow-models/face-landmarks-detection";
+import * as tf from "./node_modules/@tensorflow/tfjs-core";
+import "./node_modules/@tensorflow/tfjs-backend-webgl";
 
 let model, video, rafID;
 let amountStraightEvents = 0;
